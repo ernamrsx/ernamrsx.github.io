@@ -13,3 +13,15 @@ nav a {
 nav a:hover {
   text-decoration: underline;
 }
+
+.article p {
+  text-align: justify;
+  line-height: 1.8;
+}
+
+.article img {
+  max-width: 100%;
+  margin: 20px auto;
+  display: block;
+  border-radius: 8px;
+}
