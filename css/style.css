@@ -25,3 +25,48 @@ nav a:hover {
   display: block;
   border-radius: 8px;
 }
+
+.hero {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.hero h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.tagline {
+  font-size: 18px;
+  color: #555;
+}
+
+.intro {
+  max-width: 800px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.quick-links {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  margin: 10px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.btn.secondary {
+  background-color: #777;
+}
+
+.btn:hover {
+  opacity: 0.85;
+}
+
