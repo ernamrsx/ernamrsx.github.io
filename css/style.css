@@ -328,6 +328,13 @@ nav a:hover {
   margin-top: 4px;
 }
 
+.skill-list span {
+  background: #f3f3f3;
+  padding: 8px 14px;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
 .view-all {
   display: inline-block;
   margin-top: 10px;
