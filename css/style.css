@@ -329,10 +329,12 @@ nav a:hover {
 }
 
 .skill-list span {
+  display: inline-block; 
   background: #f3f3f3;
   padding: 8px 14px;
   border-radius: 20px;
   font-size: 14px;
+  white-space: nowrap;
 }
 
 .view-all {
