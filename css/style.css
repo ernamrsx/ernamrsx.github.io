@@ -335,6 +335,8 @@ nav a:hover {
   border-radius: 20px;
   font-size: 14px;
   white-space: nowrap;
+  margin-top: 20px;     /* jarak dari atas */
+  margin-bottom: 20px;  /* jarak ke bawah */
 }
 
 .view-all {
